@@ -12,4 +12,4 @@ Welcome to my GitHub! I'm a passionate  graduate student a focus on building inn
 
 - AI & Data: Machine Learning (K-means, SVM, linear regression), Deep Learning (CNN, DNN)
 
-![https://github-readme-stats.vercel.app/api/top-langs?username=Maimai0123&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=Maimai0123&show_icons=true&locale=en&layout=compact)
+![maimia.jpef](maimia.jpeg)
